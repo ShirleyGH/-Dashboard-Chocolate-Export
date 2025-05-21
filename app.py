@@ -1,6 +1,6 @@
 import streamlit as st
 import pandas as pd
-import matplotlib.pyplot as plt
+pip install matplotlib
 
 # URLs de los archivos CSV
 clientes_url = "https://raw.githubusercontent.com/TU_USUARIO/Dashboard-Chocolate-Export/main/clientes.csv"
